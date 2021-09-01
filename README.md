@@ -5,4 +5,4 @@ If you want to hire me,https://www.fiverr.com/sumeet_dube/do-3d-cad-designing-an
 
 
 # Note
-Many of these are not perfect, forgive me for that. I was just learning.
+Many of these are not perfect
