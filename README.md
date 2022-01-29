@@ -13,4 +13,4 @@ Some CAD models, that I've made along with some renders
 
 
 # Note
-Some of these work in progress and hence not perfect.
+Some of this work is incomplete. Please don't expect perfection, there are still some corners to be rounded.
